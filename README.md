@@ -4,8 +4,8 @@ Sou Programdor e Web Designer.
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oerickoalves) [![linkendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() [![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
  [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 
-[![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=oerickalves&theme=blue-green)]()
-[![Erick Stacks](https://github-readme-stats.vercel.app/api/top-langs/?username=oerickalves&theme=blue-green)]()
+[![GitStatus](https://github-readme-stats.vercel.app/api?username=oerickalves)]()
+[![Lingaguens em Uso](https://github-readme-stats.vercel.app/api/top-langs/?username=oerickalves&layout=compact)]()
 
 ### Tecnologias que desenvolvo:
 
